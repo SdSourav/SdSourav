@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SdSourav
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
